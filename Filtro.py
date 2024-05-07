@@ -294,6 +294,8 @@ while bol1==True:
         while nuevaFidelizacion not in movistar["administracion"][1]:
             nuevaFidelizacion=input("Ingresa una fidelizacion de las que aparecen en pantalla (Tienes que escribirla como se ve ahi)")
         movistar[servicioCambiarFidelizacion][posicionCambiarF]["tipoCliente"]=nuevaFidelizacion
+        input("Fidelizacion actualizada con exito\nPreciona enter para continuar\n")
+        system("clear")
 
 
     elif opc==6:
