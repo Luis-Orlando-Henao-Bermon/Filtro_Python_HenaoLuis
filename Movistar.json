@@ -1,0 +1,110 @@
+{
+    "Postpago": [
+        {
+            "nombre": "Luis Henao",
+            "direccion": "Camilo Torres",
+            "identificacion": 109698626,
+            "contacto": 3003455251,
+            "servicio": "Postpago",
+            "paquete": 2,
+            "fechaInicio": "07/05/2024",
+            "tipoCliente": "Cliente leal"
+        },
+        {
+            "nombre": "karen",
+            "direccion": "esperanza",
+            "identificacion": 2561351861,
+            "contacto": 65421313213,
+            "servicio": "Postpago",
+            "paquete": 1,
+            "fechaInicio": "07/05/2024",
+            "tipoCliente": "nuevo cliente"
+        }
+    ],
+    "Prepago": [
+        {
+            "nombre": "Pedro Gomez",
+            "direccion": "Bucaramanga",
+            "identificacion": 156635165413,
+            "contacto": 3665984552,
+            "servicio": "Prepago",
+            "paquete": 3,
+            "fechaInicio": "10/05/2024",
+            "tipoCliente": "nuevo cliente"
+        }
+    ],
+    "Fibra Optica": [
+        {
+            "nombre": "luis",
+            "direccion": "tarra",
+            "identificacion": 51651651,
+            "contacto": 3651315,
+            "servicio": "Fibra Optica",
+            "paquete": 3,
+            "fechaInicio": "07/05/2024",
+            "tipoCliente": "nuevo cliente"
+        }
+    ],
+    "administracion": [
+        {
+            "Planes": {
+                "Postpago": [
+                    {
+                        "nombre": "bronce",
+                        "precio": 25000,
+                        "Navegacion": "25 Gigas"
+                    },
+                    {
+                        "nombre": "plata",
+                        "precio": 55000,
+                        "Navegacion": "100 Gigas"
+                    },
+                    {
+                        "nombre": "oro",
+                        "precio": 110000,
+                        "Navegacion": "900 Gigas"
+                    }
+                ],
+                "Prepago": [
+                    {
+                        "nombre": "bronce",
+                        "precio": 2500,
+                        "Navegacion": "1 Giga"
+                    },
+                    {
+                        "nombre": "plata",
+                        "precio": 5500,
+                        "Navegacion": "5 Gigas"
+                    },
+                    {
+                        "nombre": "oro",
+                        "precio": 11000,
+                        "Navegacion": "15 Gigas"
+                    }
+                ],
+                "Fibra Optica": [
+                    {
+                        "nombre": "bronce",
+                        "precio": 50000,
+                        "Navegacion": "4 Megas por segundo"
+                    },
+                    {
+                        "nombre": "plata",
+                        "precio": 80000,
+                        "Navegacion": "6 Megas por segundo"
+                    },
+                    {
+                        "nombre": "oro",
+                        "precio": 10000,
+                        "Navegacion": "10 Megas por segundo"
+                    }
+                ]
+            }
+        },
+        [
+            "Nuevo cliente",
+            "Cliente regular",
+            "Cliente leal"
+        ]
+    ]
+}
